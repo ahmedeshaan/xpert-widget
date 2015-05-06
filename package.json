@@ -1,0 +1,34 @@
+{
+  "name": "bootup",
+  "version": "1.0.0",
+  "description": "bootstrap-gulp",
+  "main": "Gulpfile.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "run-sequence": "^1.0.2",
+    "gulp": "latest",
+    "gulp-concat": "latest",
+    "gulp-filter": "^1.0.2",
+    "gulp-less": "latest",
+    "gulp-minify": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-rename": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "main-bower-files": "latest",
+    "gulp-plumber": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:nadimtuhin/tse-finance.git"
+  },
+  "keywords": [
+    "fianance"
+  ],
+  "author": "Parvez Akther <parvez@themexpert.com>",
+  "license": "ISC"
+}

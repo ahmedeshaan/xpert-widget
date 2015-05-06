@@ -1,0 +1,14 @@
+@path : "../vendor/bootstrap/less";
+
+// Load dependencies
+@import "@{path}/variables.less";
+@import "@{path}/mixins.less";
+@import "@{path}/modals.less";
+@import "@{path}/navs.less";
+@import "@{path}/utilities.less";
+@import "@{path}/grid.less";
+@import "@{path}/component-animations.less";
+@import "@{path}/buttons.less";
+@import "@{path}/close.less";
+@import "@{path}/thumbnails.less";
+

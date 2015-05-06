@@ -1,0 +1,25 @@
+{
+  "name": "xpert-widget",
+  "version": "0.1",
+  "authors": [
+    "ahmedeshaan <eshaanfaysal@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.4"
+  },
+  "dependencies": {
+    "slick.js": "~1.5.2",
+    "fontawesome": "~4.3.0"
+  }
+}
